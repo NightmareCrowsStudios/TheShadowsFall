@@ -1,0 +1,1138 @@
+﻿Log file open, 12/06/20 18:55:59
+LogInit: Display: Running engine for game: ProjectFalls
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.772739
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: E:/epic/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.06-21.56.03:560][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.06-21.56.03:560][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Engine.ini]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Engine.ini]
+[2020.12.06-21.56.03:561][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Engine.ini]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Engine.ini]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.06-21.56.03:561][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.06-21.56.03:562][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.06-21.56.03:562][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.06-21.56.03:562][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.06-21.56.03:562][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Engine.ini]
+[2020.12.06-21.56.03:562][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Engine.ini]
+[2020.12.06-21.56.03:616][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-21.56.03:616][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.06-21.56.03:616][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.06-21.56.03:616][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-21.56.03:616][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.06-21.56.03:616][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-21.56.03:616][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.06-21.56.03:617][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.06-21.56.03:618][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-21.56.03:619][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.06-21.56.03:619][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.06-21.56.03:619][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.06-21.56.03:619][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.06-21.56.03:619][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.06-21.56.03:619][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.06-21.56.03:619][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.06-21.56.03:657][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.06-21.56.03:666][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.06-21.56.03:670][  0]LogHAL: Display: Platform has ~ 24 GB [25699905536 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.06-21.56.03:670][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.06-21.56.03:670][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-21.56.03:670][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.06-21.56.03:670][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2020.12.06-21.56.03:670][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-21.56.03:670][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.12.06-21.56.03:670][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-21.56.03:670][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.06-21.56.03:670][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.06-21.56.03:670][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2020.12.06-21.56.03:670][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.12.06-21.56.03:670][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.06-21.56.03:670][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2020.12.06-21.56.03:670][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2020.12.06-21.56.03:670][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.06-21.56.03:671][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.06-21.56.03:672][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.06-21.56.03:682][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.06-21.56.03:682][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.06-21.56.03:682][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.06-21.56.03:682][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UNREAL/ProjectFalls/Saved/Config/Windows/Engine.ini]
+[2020.12.06-21.56.03:705][  0]LogInit: Computer: BACON_PC
+[2020.12.06-21.56.03:705][  0]LogInit: User: Kaue
+[2020.12.06-21.56.03:710][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.12.06-21.56.03:710][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.06-21.56.03:711][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2020.12.06-21.56.03:716][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.06-21.56.03:716][  0]LogMemory: Process Physical Memory: 113.82 MB used, 113.82 MB peak
+[2020.12.06-21.56.03:716][  0]LogMemory: Process Virtual Memory: 95.75 MB used, 95.75 MB peak
+[2020.12.06-21.56.03:716][  0]LogMemory: Physical Memory: 6771.66 MB used,  17737.68 MB free, 24509.34 MB total
+[2020.12.06-21.56.03:716][  0]LogMemory: Virtual Memory: 5102.78 MB used,  134212624.00 MB free, 134217728.00 MB total
+[2020.12.06-21.56.03:732][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.06-21.56.04:831][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.06-21.56.04:858][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.12.06-21.56.04:858][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.12.06-21.56.05:784][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.06-21.56.06:617][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.06-21.56.06:617][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.06-21.56.07:782][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.06-21.56.07:783][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.06-21.56.07:783][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.06-21.56.07:783][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.06-21.56.07:892][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.12.06-21.56.07:892][  0]LogD3D11RHI:       4018/0/12254 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.06-21.56.07:895][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.06-21.56.07:895][  0]LogD3D11RHI:       0/0/12254 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.06-21.56.07:895][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.06-21.56.07:955][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.06-21.56.07:955][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.06-21.56.08:130][  0]LogWindows: EnumDisplayDevices:
+[2020.12.06-21.56.08:131][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2020.12.06-21.56.08:131][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.12.06-21.56.08:132][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.12.06-21.56.08:133][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.12.06-21.56.08:134][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.12.06-21.56.08:134][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.12.06-21.56.08:134][  0]LogD3D11RHI:   Driver Version: 457.51 (internal:27.21.14.5751, unified:457.51)
+[2020.12.06-21.56.08:134][  0]LogD3D11RHI:      Driver Date: 11-22-2020
+[2020.12.06-21.56.08:134][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2020.12.06-21.56.08:200][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.06-21.56.08:201][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.06-21.56.08:201][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.12.06-21.56.08:203][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061082).
+[2020.12.06-21.56.08:716][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.06-21.56.09:921][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.06-21.56.10:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.06-21.56.10:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.06-21.56.10:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.06-21.56.10:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.06-21.56.10:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.06-21.56.10:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.06-21.56.10:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.06-21.56.10:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.06-21.56.10:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.06-21.56.10:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.06-21.56.10:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.06-21.56.10:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.06-21.56.10:996][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.06-21.56.11:147][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.06-21.56.11:194][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.06-21.56.11:274][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.06-21.56.11:307][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.06-21.56.11:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.06-21.56.11:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.06-21.56.11:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.06-21.56.11:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.06-21.56.11:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.06-21.56.11:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.06-21.56.11:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.06-21.56.11:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.06-21.56.11:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.06-21.56.11:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.06-21.56.11:773][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.06-21.56.12:161][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.06-21.56.13:092][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (../../../../../UNREAL/ProjectFalls/Intermediate/Shaders/WorkingDirectory/8000/).
+[2020.12.06-21.56.13:092][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kaue/AppData/Local/Temp/UnrealShaderWorkingDir/F5DBC39C4A3A66831F5C54AD1365C6D0/'.
+[2020.12.06-21.56.13:101][  0]LogXGEController: Cleaning working directory: C:/Users/Kaue/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.06-21.56.13:101][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.06-21.56.13:101][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.06-21.56.13:101][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.06-21.56.16:361][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.06-21.56.16:556][  0]LogDerivedDataCache: Loaded boot cache 0.19s 75MB C:/Users/Kaue/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.06-21.56.16:556][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kaue/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.12.06-21.56.16:556][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UNREAL/ProjectFalls/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.06-21.56.16:556][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.06-21.56.16:556][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UNREAL/ProjectFalls/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.06-21.56.16:556][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.06-21.56.16:919][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.06-21.56.16:919][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.06-21.56.16:919][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.06-21.56.16:923][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kaue/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.06-21.56.16:923][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.06-21.56.16:923][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.06-21.56.17:216][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.06-21.56.17:307][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.06-21.56.17:817][  0]LogAssetRegistry: FAssetRegistry took 0.0157 seconds to start up
+[2020.12.06-21.56.24:727][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.06-21.56.26:656][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.06-21.56.26:656][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.06-21.56.26:656][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.06-21.56.26:656][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.06-21.56.26:656][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.06-21.56.27:385][  0]LogNetVersion: ProjectFalls 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 4208646214)
+[2020.12.06-21.56.33:867][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000142886DE980), frame # 0
+[2020.12.06-21.56.33:867][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001428856EAC0), frame # 0
+[2020.12.06-21.56.33:875][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000142885C1C00), frame # 0
+[2020.12.06-21.56.34:669][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.162953 seconds
+[2020.12.06-21.56.34:708][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.12.06-21.56.34:711][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.12.06-21.56.34:711][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.06-21.56.40:752][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.06-21.56.40:780][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.06-21.56.42:288][  0]SourceControl: Source control is disabled
+[2020.12.06-21.56.42:290][  0]SourceControl: Source control is disabled
+[2020.12.06-21.56.42:571][  0]SourceControl: Source control is disabled
+[2020.12.06-21.56.42:597][  0]SourceControl: Source control is disabled
+[2020.12.06-21.56.42:632][  0]SourceControl: Source control is disabled
+[2020.12.06-21.56.42:841][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.06-21.56.42:841][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.06-21.56.45:560][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.06-21.56.46:005][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.06-21.56.46:005][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.06-21.56.46:411][  0]LogOcInput: OculusInput pre-init called
+[2020.12.06-21.56.46:510][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.06-21.56.46:510][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.06-21.56.48:079][  0]LogEngine: Initializing Engine...
+[2020.12.06-21.56.48:139][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.06-21.56.48:295][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.06-21.56.48:351][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.015 s
+[2020.12.06-21.56.49:048][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.06-21.56.49:725][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.06-21.56.49:725][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001428B1BC600), frame # 0
+[2020.12.06-21.56.49:726][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001428B1E0900), frame # 0
+[2020.12.06-21.56.49:941][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.06-21.56.49:941][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.06-21.56.49:941][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.06-21.56.49:941][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.06-21.56.49:941][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.06-21.56.49:941][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.06-21.56.49:941][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.06-21.56.49:941][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.06-21.56.49:945][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.06-21.56.49:946][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.06-21.56.50:152][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.06-21.56.50:152][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.06-21.56.50:237][  0]LogAudioMixer: Display: Using Audio Device Alto-falantes (Jabra EVOLVE 20)
+[2020.12.06-21.56.50:447][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.06-21.56.50:473][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.06-21.56.50:516][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.06-21.56.50:536][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.06-21.56.50:537][  0]LogInit: FAudioDevice initialized.
+[2020.12.06-21.56.50:567][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.06-21.56.50:642][  0]LogDerivedDataCache: Saved boot cache 0.07s 75MB C:/Users/Kaue/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.06-21.56.50:646][  0]LogInit: Texture streaming: Enabled
+[2020.12.06-21.56.51:178][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.06-21.56.51:179][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={6BB74046-40EF-CE10-994E-EEAA3AAE1574}
+[2020.12.06-21.56.51:179][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.06-21.56.51:295][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.06-21.56.51:732][  0]LogInit: Transaction tracking system initialized
+[2020.12.06-21.56.52:193][  0]BlueprintLog: New page: Editor Load
+[2020.12.06-21.56.53:549][  0]LocalizationService: Localization service is disabled
+[2020.12.06-21.56.54:916][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.06-21.56.54:917][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.06-21.56.57:885][  0]LogFileCache: Scanning file cache for directory 'E:/UNREAL/ProjectFalls/Content/' took 0.06s
+[2020.12.06-21.56.57:885][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.06-21.56.57:899][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.06-21.57.03:055][  0]SourceControl: Source control is disabled
+[2020.12.06-21.57.03:066][  0]LogUnrealEdMisc: Loading editor; pre map load, took 86.998
+[2020.12.06-21.57.03:136][  0]Cmd: MAP LOAD FILE="../../../../../UNREAL/ProjectFalls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.06-21.57.03:161][  0]LightingResults: New page: Lighting Build
+[2020.12.06-21.57.03:972][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-21.57.04:005][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-21.57.04:053][  0]MapCheck: New page: Map Check
+[2020.12.06-21.57.04:053][  0]LightingResults: New page: Lighting Build
+[2020.12.06-21.57.04:605][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001428B1BC600), frame # 0
+[2020.12.06-21.57.04:605][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001428B1E0900), frame # 0
+[2020.12.06-21.57.04:621][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.12.06-21.57.08:746][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Max/Animations/WalkRun/Male_Crouch_Pose.Male_Crouch_Pose
+[2020.12.06-21.57.08:746][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Max/Animations/WalkRun/Crouched_Walking.Crouched_Walking
+[2020.12.06-21.57.08:746][  0]LoadErrors: Error: The BlendSpace  Max_Pistol  has sample with no animation. Recommend to remove sample point or set new animation.
+[2020.12.06-21.57.09:765][  0]LoadErrors: Error: The BlendSpace  Max_Pistol  has sample with no animation. Recommend to remove sample point or set new animation.
+[2020.12.06-21.57.10:485][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.12.06-21.57.10:485][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000142991B7E00), frame # 0
+[2020.12.06-21.57.10:485][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000014298ED4E00), frame # 0
+[2020.12.06-21.57.11:261][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.06-21.57.11:577][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.12.06-21.57.11:601][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.06-21.57.11:601][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.634ms to complete.
+[2020.12.06-21.57.11:601][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 8.517
+[2020.12.06-21.57.12:732][  0]LogUnrealEdMisc: Total Editor Startup Time, took 96.664
+[2020.12.06-21.57.13:813][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.06-21.57.13:822][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.06-21.57.13:828][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.06-21.57.13:835][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.06-21.57.14:071][  0]LogCollectionManager: Loaded 0 collections in 0.007526 seconds
+[2020.12.06-21.57.14:211][  0]LogFileCache: Scanning file cache for directory 'E:/UNREAL/ProjectFalls/Saved/Collections/' took 0.00s
+[2020.12.06-21.57.14:211][  0]LogFileCache: Scanning file cache for directory 'E:/UNREAL/ProjectFalls/Content/Developers/Kaue/Collections/' took 0.00s
+[2020.12.06-21.57.14:211][  0]LogFileCache: Scanning file cache for directory 'E:/UNREAL/ProjectFalls/Content/Collections/' took 0.00s
+[2020.12.06-21.57.14:211][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 3427 classes and 821 folders.
+[2020.12.06-21.57.14:406][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.06-21.57.16:052][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.06-21.57.16:118][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2020.12.06-21.57.17:352][  0]LogSlate: Took 0.025750 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.06-21.57.17:388][  0]LogSlate: Took 0.016906 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.06-21.57.17:729][  0]LogSlate: Took 0.031824 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.06-21.57.18:391][  0]LogRenderer: Reallocating scene render targets to support 1704x852 Format 9 NumSamples 1 (Frame:1).
+[2020.12.06-21.57.19:330][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.12.06-21.57.19:330][  0]LogLoad: (Engine Initialization) Total time: 103.26 seconds
+[2020.12.06-21.57.19:330][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.06-21.57.19:861][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Max/Animations/WalkRun/Sprinting_Forward_Roll.Sprinting_Forward_Roll
+[2020.12.06-21.57.19:861][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Max/Animations/WalkRun/weapom/Pistol_run_D.Pistol_run_D
+[2020.12.06-21.57.19:861][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.12.06-21.57.20:276][  0]LogSlate: Took 0.023158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.12.06-21.57.20:567][  1]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Max/Animations/WalkRun/weapom/Pistol_Idle.Pistol_Idle
+[2020.12.06-21.57.20:567][  1]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Max/Animations/WalkRun/weapom/Pistol_run.Pistol_run
+[2020.12.06-21.57.20:567][  1]LogAssetRegistry: Asset discovery search completed in 62.7611 seconds
+[2020.12.06-21.57.20:618][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.008108 seconds (updated 0 objects)
+[2020.12.06-21.57.21:427][  2]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Max/Animations/WalkRun/weapom/Pistol_Walk.Pistol_Walk
+[2020.12.06-21.57.21:427][  2]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Max/Animations/WalkRun/Idle.Idle
+[2020.12.06-21.57.21:608][  3]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Max/Animations/WalkRun/Running.Running
+[2020.12.06-21.57.21:608][  3]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Max/Animations/WalkRun/Standard_Walk.Standard_Walk
+[2020.12.06-21.57.21:941][  4]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Max/Animations/WalkRun/weapom/Pistol_Idle_D.Pistol_Idle_D
+[2020.12.06-21.58.06:318][243]LogSlate: Window 'Message Log' being destroyed
+[2020.12.06-21.58.06:366][243]LogSlate: Window 'Message Log' being destroyed
+[2020.12.06-21.58.16:525][116]LogSlate: Took 0.014625 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.06-21.58.17:976][230]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.06-21.58.18:134][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.06-21.58.18:284][230]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 6, 2020, 4:58:18 PM)
+[2020.12.06-21.58.18:342][230]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.12.06-21.58.18:344][230]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.12.06-21.58.18:359][230]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.12.06-21.58.18:423][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063716s)
+[2020.12.06-21.58.18:429][230]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.12.06-21.58.18:429][230]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000142A52B3400), frame # 1230
+[2020.12.06-21.58.18:429][230]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000142E449F740), frame # 1230
+[2020.12.06-21.58.18:508][230]LogPlayLevel: PIE: World Init took: (0.081686s)
+[2020.12.06-21.58.18:508][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.150209s)
+[2020.12.06-21.58.18:519][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.12.06-21.58.18:527][230]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.06-21.58.18:527][230]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.06-21.58.18:527][230]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.06-21.58.18:527][230]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.06-21.58.18:527][230]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.06-21.58.18:527][230]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.06-21.58.18:527][230]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.06-21.58.18:527][230]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.06-21.58.18:527][230]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.06-21.58.18:527][230]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.06-21.58.18:551][230]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.06-21.58.18:551][230]LogAudioMixer: Display: 1: FrontRight
+[2020.12.06-21.58.18:604][230]LogAudioMixer: Display: Using Audio Device Alto-falantes (Jabra EVOLVE 20)
+[2020.12.06-21.58.18:604][230]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.06-21.58.18:604][230]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.06-21.58.18:604][230]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.06-21.58.18:605][230]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.06-21.58.18:614][230]LogInit: FAudioDevice initialized.
+[2020.12.06-21.58.18:905][230]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.12.06-21.58.18:986][230]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.12.06-18.58.18
+[2020.12.06-21.58.18:995][230]LogWorld: Bringing up level for play took: 0.037959
+[2020.12.06-21.58.19:003][230]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.12.06-21.58.19:278][230]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.12.06-21.58.19:425][230]PIE: Server logged in
+[2020.12.06-21.58.19:426][230]PIE: Play in editor total start time 1.43 seconds.
+[2020.12.06-21.58.23:202][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.06-21.58.23:202][639]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.12.06-21.58.23:292][639]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-21.58.23:293][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-21.58.23:489][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.06-21.58.23:560][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-21.58.23:780][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.06-21.58.23:840][639]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000142E449F740), frame # 1639
+[2020.12.06-21.58.23:840][639]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000142A52B3400), frame # 1639
+[2020.12.06-21.58.23:904][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.06-21.58.23:927][640]Cmd: SELECT NONE
+[2020.12.06-21.58.24:323][640]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.12.06-21.58.25:529][762]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.12.06-21.58.27:503][762]LogEditorViewport: Clicking on Actor (context menu): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.12.06-21.58.30:044][935]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.06-21.58.30:065][935]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.12.06-21.58.30:598][935]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 125 classes and 0 folders.
+[2020.12.06-21.58.32:125][935]LogSlate: Took 0.026174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.06-21.58.32:431][936]LogSlate: Took 0.010232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.06-21.58.47:919][ 45]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.12.06-21.58.48:184][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.12.06-21.59.02:033][811]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.12.06-21.59.02:046][811]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.12.06-21.59.02:106][811]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-21.59.02:106][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-21.59.23:537][945]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../NightmareStudios/Objetos/Armas/Pistol/18-1911a1/FBX/1911.FBX)
+[2020.12.06-21.59.23:691][945]LogFbx: Loading FBX Scene from ../../../../../NightmareStudios/Objetos/Armas/Pistol/18-1911a1/FBX/1911.FBX
+[2020.12.06-21.59.23:707][945]LogFbx: FBX Scene Loaded Succesfully
+[2020.12.06-21.59.25:561][945]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.12.06-21.59.25:617][945]LogFbx: Valid bind pose for Pose (BIND_POSES) - slidetrigger
+[2020.12.06-21.59.25:870][945]LogTexture: Display: Building textures: 257_2 (BGRA8, 980X645)
+[2020.12.06-21.59.25:902][945]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.12.06-21.59.25:950][945]LogSkeletalMesh: Section 0: 769 vertices, 1 active bones
+[2020.12.06-21.59.25:950][945]LogSkeletalMesh: Section 0: Material=0, 826 triangles
+[2020.12.06-21.59.25:954][945]LogSkeletalMesh: Building Skeletal Mesh 1911...
+[2020.12.06-21.59.25:969][945]LogSkeletalMesh: Section 0: 769 vertices, 1 active bones
+[2020.12.06-21.59.25:969][945]LogSkeletalMesh: Section 0: Material=0, 826 triangles
+[2020.12.06-21.59.25:983][945]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Pistol/1911.1911
+[2020.12.06-21.59.25:992][945]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.12.06-21.59.26:016][945]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-21.59.26:016][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-21.59.26:063][945]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-21.59.26:063][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-21.59.26:073][945]LogFbx: SortedLinks :(0) slidetrigger
+[2020.12.06-21.59.26:079][945]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.12.06-21.59.26:079][945]FBXImport: Warning: Animation Stack Take 001 does not contain any valid key. Try different time options when import. 
+[2020.12.06-21.59.26:079][945]FBXImport: Warning: This does not contain any valid animation takes. 
+[2020.12.06-21.59.29:247][218]LogSlate: Window 'Message Log' being destroyed
+[2020.12.06-21.59.29:263][218]LogSlate: Window 'Message Log' being destroyed
+[2020.12.06-21.59.33:141][516]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Pistol/1911.1911
+[2020.12.06-21.59.33:281][516]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.12.06-21.59.33:831][516]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.06-21.59.33:858][516]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.12.06-21.59.34:125][516]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.12.06-21.59.35:073][516]LogRenderer: Reallocating scene render targets to support 1796x884 Format 9 NumSamples 1 (Frame:1).
+[2020.12.06-21.59.41:542][843]Cmd: TRANSACTION UNDO
+[2020.12.06-21.59.41:542][843]LogEditorTransaction: Undo Translate Bone
+[2020.12.06-21.59.41:630][843]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.06-21.59.42:351][868]LogSlate: Window '1911' being destroyed
+[2020.12.06-21.59.42:384][868]LogSlate: Window '1911' being destroyed
+[2020.12.06-21.59.42:426][868]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-21.59.42:426][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-21.59.43:421][922]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Pistol/1911_Skeleton.1911_Skeleton
+[2020.12.06-21.59.43:462][922]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.06-21.59.43:615][922]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.12.06-21.59.44:988][990]LogSlate: Window '1911_Skeleton' being destroyed
+[2020.12.06-21.59.45:021][990]LogSlate: Window '1911_Skeleton' being destroyed
+[2020.12.06-21.59.45:021][990]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-21.59.45:021][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-21.59.46:008][ 66]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Pistol/1911_PhysicsAsset.1911_PhysicsAsset
+[2020.12.06-21.59.46:079][ 66]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0004 seconds. Added 8 classes and 3 folders.
+[2020.12.06-21.59.46:119][ 66]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2020.12.06-21.59.51:953][378]LogSlate: Window '1911_PhysicsAsset' being destroyed
+[2020.12.06-21.59.51:983][378]LogSlate: Window '1911_PhysicsAsset' being destroyed
+[2020.12.06-21.59.51:984][378]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-21.59.51:984][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-21.59.56:250][725]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Pistol/257_2.257_2
+[2020.12.06-21.59.56:285][725]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.12.06-21.59.59:299][961]LogSlate: Window '257_2' being destroyed
+[2020.12.06-21.59.59:324][961]LogSlate: Window '257_2' being destroyed
+[2020.12.06-22.00.00:529][ 48]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Pistol/1911_Skeleton.1911_Skeleton
+[2020.12.06-22.00.00:537][ 48]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.06-22.00.00:642][ 48]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.12.06-22.00.02:038][118]LogSlate: Window '1911_Skeleton' being destroyed
+[2020.12.06-22.00.02:070][118]LogSlate: Window '1911_Skeleton' being destroyed
+[2020.12.06-22.00.02:070][118]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-22.00.02:070][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-22.00.06:779][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.06-22.00.07:603][635]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.06-22.00.08:496][736]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (1911)
+[2020.12.06-22.00.08:954][781]Cmd: DELETE
+[2020.12.06-22.00.08:954][781]Cmd: ACTOR DELETE
+[2020.12.06-22.00.08:987][781]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.12.06-22.00.09:190][781]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.12.06-22.00.09:194][781]LogEditorActor: Deleted 1 Actors (0.230 secs)
+[2020.12.06-22.00.14:863][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.12.06-22.00.15:803][339]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.06-22.00.17:264][339]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Pistol/1911.1911
+	Asset Name: /Game/Pistol/1911_PhysicsAsset.1911_PhysicsAsset
+	Asset Name: /Game/Pistol/1911_Skeleton.1911_Skeleton
+	Asset Name: /Game/Pistol/257_2.257_2
+[2020.12.06-22.00.21:591][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.12.06-22.00.55:710][510]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../NightmareStudios/Objetos/Armas/Pistol/75-fbx/fbx/Handgun_fbx_6.1_ASCII.fbx)
+[2020.12.06-22.00.56:028][510]LogFbx: Loading FBX Scene from ../../../../../NightmareStudios/Objetos/Armas/Pistol/75-fbx/fbx/Handgun_fbx_6.1_ASCII.fbx
+[2020.12.06-22.00.56:421][510]LogFbx: FBX Scene Loaded Succesfully
+[2020.12.06-22.00.57:762][510]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.12.06-22.00.57:798][510]LogFbxMaterialImport: Display: Unable to find Texture file handgun_Fire.png
+[2020.12.06-22.00.57:813][510]LogFbx: Triangulating skeletal mesh bullet
+[2020.12.06-22.00.57:818][510]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.12.06-22.00.57:818][510]LogSkeletalMesh: Section 0: 8 vertices, 1 active bones
+[2020.12.06-22.00.57:818][510]LogSkeletalMesh: Section 0: Material=0, 4 triangles
+[2020.12.06-22.00.57:828][510]LogSkeletalMesh: Building Skeletal Mesh Handgun_fbx_6_1_ASCII_bullet...
+[2020.12.06-22.00.57:828][510]LogSkeletalMesh: Section 0: 8 vertices, 1 active bones
+[2020.12.06-22.00.57:828][510]LogSkeletalMesh: Section 0: Material=0, 4 triangles
+[2020.12.06-22.00.57:828][510]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Pistol/Handgun_fbx_6_1_ASCII.Handgun_fbx_6_1_ASCII_bullet
+[2020.12.06-22.00.57:836][510]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.12.06-22.00.57:836][510]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-22.00.57:836][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-22.00.57:841][510]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-22.00.57:841][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-22.00.57:844][510]LogFbx: SortedLinks :(0) bullet
+[2020.12.06-22.00.57:849][510]LogFbxMaterialImport: Display: Unable to find Texture file handgun_S.jpg
+[2020.12.06-22.00.57:849][510]LogFbx: Triangulating skeletal mesh Cube_002
+[2020.12.06-22.00.57:852][510]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.12.06-22.00.57:853][510]LogSkeletalMesh: Section 0: 62 vertices, 1 active bones
+[2020.12.06-22.00.57:853][510]LogSkeletalMesh: Section 0: Material=0, 56 triangles
+[2020.12.06-22.00.57:860][510]LogSkeletalMesh: Building Skeletal Mesh Handgun_fbx_6_1_ASCII_Cube_002...
+[2020.12.06-22.00.57:861][510]LogSkeletalMesh: Section 0: 62 vertices, 1 active bones
+[2020.12.06-22.00.57:861][510]LogSkeletalMesh: Section 0: Material=0, 56 triangles
+[2020.12.06-22.00.57:862][510]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Pistol/Handgun_fbx_6_1_ASCII.Handgun_fbx_6_1_ASCII_Cube_002
+[2020.12.06-22.00.57:870][510]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.12.06-22.00.57:870][510]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-22.00.57:870][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-22.00.57:875][510]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.12.06-22.00.57:875][510]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-22.00.57:875][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-22.00.57:901][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.12.06-22.00.57:931][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.12.06-22.00.57:933][510]LogFbx: SortedLinks :(0) Cube_002
+[2020.12.06-22.00.57:938][510]LogFbx: Triangulating skeletal mesh hulle
+[2020.12.06-22.00.57:939][510]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2020.12.06-22.00.57:939][510]LogSkeletalMesh: Section 0: 12 vertices, 1 active bones
+[2020.12.06-22.00.57:939][510]LogSkeletalMesh: Section 0: Material=0, 20 triangles
+[2020.12.06-22.00.57:949][510]LogSkeletalMesh: Building Skeletal Mesh Handgun_fbx_6_1_ASCII_hulle...
+[2020.12.06-22.00.57:949][510]LogSkeletalMesh: Section 0: 12 vertices, 1 active bones
+[2020.12.06-22.00.57:949][510]LogSkeletalMesh: Section 0: Material=0, 20 triangles
+[2020.12.06-22.00.57:949][510]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Pistol/Handgun_fbx_6_1_ASCII.Handgun_fbx_6_1_ASCII_hulle
+[2020.12.06-22.00.57:958][510]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.12.06-22.00.57:958][510]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-22.00.57:958][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-22.00.57:961][510]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.12.06-22.00.57:961][510]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-22.00.57:961][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-22.00.57:979][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.12.06-22.00.58:006][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.12.06-22.00.58:007][510]LogFbx: SortedLinks :(0) hulle
+[2020.12.06-22.00.58:013][510]LogFbxMaterialImport: Display: Unable to find Texture file handgun_C.jpg
+[2020.12.06-22.00.58:013][510]LogFbx: Triangulating skeletal mesh Gun
+[2020.12.06-22.00.58:694][510]LogFbxMaterialImport: Display: Unable to find Texture file handgun_S.jpg
+[2020.12.06-22.00.58:694][510]LogFbx: Triangulating skeletal mesh Cube_005
+[2020.12.06-22.00.58:763][510]LogFbxMaterialImport: Display: Unable to find Texture file handgun_Fire.png
+[2020.12.06-22.00.58:763][510]LogFbx: Triangulating skeletal mesh muzzle_fire
+[2020.12.06-22.00.58:765][510]LogFbxMaterialImport: Display: Unable to find Texture file handgun_S.jpg
+[2020.12.06-22.00.58:765][510]LogFbx: Triangulating skeletal mesh Gun_trigger
+[2020.12.06-22.00.58:786][510]LogFbx: Warning: Bones digested - 6  Depth of hierarchy - 2
+[2020.12.06-22.00.58:878][510]LogSkeletalMesh: Display: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.12.06-22.00.59:227][510]LogSkeletalMesh: Section 0: 11619 vertices, 1 active bones
+[2020.12.06-22.00.59:228][510]LogSkeletalMesh: Section 1: 1528 vertices, 2 active bones
+[2020.12.06-22.00.59:228][510]LogSkeletalMesh: Section 2: 13 vertices, 1 active bones
+[2020.12.06-22.00.59:229][510]LogSkeletalMesh: Section 0: Material=0, 19718 triangles
+[2020.12.06-22.00.59:229][510]LogSkeletalMesh: Section 1: Material=1, 2020 triangles
+[2020.12.06-22.00.59:229][510]LogSkeletalMesh: Section 2: Material=2, 8 triangles
+[2020.12.06-22.00.59:240][510]LogSkeletalMesh: Building Skeletal Mesh Handgun_fbx_6_1_ASCII_Gun...
+[2020.12.06-22.00.59:288][510]LogSkeletalMesh: Display: Skeletal ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2020.12.06-22.00.59:627][510]LogSkeletalMesh: Section 0: 11619 vertices, 1 active bones
+[2020.12.06-22.00.59:627][510]LogSkeletalMesh: Section 1: 1528 vertices, 2 active bones
+[2020.12.06-22.00.59:627][510]LogSkeletalMesh: Section 2: 13 vertices, 1 active bones
+[2020.12.06-22.00.59:628][510]LogSkeletalMesh: Section 0: Material=0, 19718 triangles
+[2020.12.06-22.00.59:628][510]LogSkeletalMesh: Section 1: Material=1, 2020 triangles
+[2020.12.06-22.00.59:628][510]LogSkeletalMesh: Section 2: Material=2, 8 triangles
+[2020.12.06-22.00.59:663][510]LogSkeletalMesh: Built Skeletal Mesh [0.43s] /Game/Pistol/Handgun_fbx_6_1_ASCII.Handgun_fbx_6_1_ASCII_Gun
+[2020.12.06-22.00.59:675][510]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.12.06-22.00.59:675][510]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-22.00.59:675][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-22.00.59:714][510]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-22.00.59:714][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-22.00.59:717][510]LogFbx: SortedLinks :(0) Gun
+[2020.12.06-22.00.59:717][510]LogFbx: SortedLinks :(1) Cube_005
+[2020.12.06-22.00.59:717][510]LogFbx: SortedLinks :(2) muzzle_fire
+[2020.12.06-22.00.59:717][510]LogFbx: SortedLinks :(3) Gun_trigger
+[2020.12.06-22.00.59:717][510]LogFbx: SortedLinks :(4) muni_rot
+[2020.12.06-22.00.59:717][510]LogFbx: SortedLinks :(5) bullet_shooter
+[2020.12.06-22.00.59:734][510]LogFbx: Parsing AnimStack Default Take
+[2020.12.06-22.00.59:823][510]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Pistol/Handgun_fbx_6_1_ASCII_Gun_Anim.Handgun_fbx_6_1_ASCII_Gun_Anim
+[2020.12.06-22.00.59:854][510]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.12.06-22.00.59:854][510]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.12.06-22.00.59:854][510]FBXImport: Warning: Animation Stack Default Take does not contain any valid key. Try different time options when import. 
+[2020.12.06-22.00.59:854][510]FBXImport: Warning: This does not contain any valid animation takes. 
+[2020.12.06-22.00.59:854][510]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.12.06-22.00.59:854][510]FBXImport: Warning: The bone size is too small to create Physics Asset 'Handgun_fbx_6_1_ASCII_Cube_002_PhysicsAsset' from Skeletal Mesh 'Handgun_fbx_6_1_ASCII_Cube_002'. You will have to create physics asset manually. 
+[2020.12.06-22.00.59:854][510]FBXImport: Warning: Animation Stack Default Take does not contain any valid key. Try different time options when import. 
+[2020.12.06-22.00.59:854][510]FBXImport: Warning: This does not contain any valid animation takes. 
+[2020.12.06-22.00.59:854][510]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.12.06-22.00.59:854][510]FBXImport: Warning: Mesh 'hulle' has no UV set. Creating a default set. 
+[2020.12.06-22.00.59:854][510]FBXImport: Warning: The bone size is too small to create Physics Asset 'Handgun_fbx_6_1_ASCII_hulle_PhysicsAsset' from Skeletal Mesh 'Handgun_fbx_6_1_ASCII_hulle'. You will have to create physics asset manually. 
+[2020.12.06-22.00.59:854][510]FBXImport: Warning: Animation Stack Default Take does not contain any valid key. Try different time options when import. 
+[2020.12.06-22.00.59:854][510]FBXImport: Warning: This does not contain any valid animation takes. 
+[2020.12.06-22.00.59:854][510]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2020.12.06-22.01.02:788][834]LogSlate: Window 'Message Log' being destroyed
+[2020.12.06-22.01.02:794][834]LogSlate: Window 'Message Log' being destroyed
+[2020.12.06-22.01.05:500][105]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Pistol/Handgun_fbx_6_1_ASCII.Handgun_fbx_6_1_ASCII_bullet
+[2020.12.06-22.01.05:504][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.06-22.01.05:627][105]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.12.06-22.01.10:076][360]LogSlate: Window 'Handgun_fbx_6_1_ASCII_bullet' being destroyed
+[2020.12.06-22.01.10:110][360]LogSlate: Window 'Handgun_fbx_6_1_ASCII_bullet' being destroyed
+[2020.12.06-22.01.10:111][360]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-22.01.10:111][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-22.01.11:770][503]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Pistol/Handgun_fbx_6_1_ASCII_Gun_Anim.Handgun_fbx_6_1_ASCII_Gun_Anim
+[2020.12.06-22.01.11:819][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.06-22.01.11:928][503]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.12.06-22.01.12:736][503]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.12.06-22.01.22:601][269]LogSlate: Window 'Handgun_fbx_6_1_ASCII_Gun_Anim' being destroyed
+[2020.12.06-22.01.22:630][269]LogSlate: Window 'Handgun_fbx_6_1_ASCII_Gun_Anim' being destroyed
+[2020.12.06-22.01.22:630][269]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-22.01.22:630][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-22.01.22:693][269]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-22.01.22:693][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-22.01.25:533][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.12.06-22.01.26:639][514]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.06-22.01.27:877][514]LogUObjectGlobals: Force Deleting 11 Package(s):
+	Asset Name: /Game/Pistol/Handgun_fbx_6_1_ASCII_hulle_Skeleton.Handgun_fbx_6_1_ASCII_hulle_Skeleton
+	Asset Name: /Game/Pistol/Handgun_fbx_6_1_ASCII.Handgun_fbx_6_1_ASCII_bullet
+	Asset Name: /Game/Pistol/Handgun_fbx_6_1_ASCII_bullet_PhysicsAsset.Handgun_fbx_6_1_ASCII_bullet_PhysicsAsset
+	Asset Name: /Game/Pistol/Handgun_fbx_6_1_ASCII_bullet_Skeleton.Handgun_fbx_6_1_ASCII_bullet_Skeleton
+	Asset Name: /Game/Pistol/Handgun_fbx_6_1_ASCII.Handgun_fbx_6_1_ASCII_Cube_002
+	Asset Name: /Game/Pistol/Handgun_fbx_6_1_ASCII_Cube_002_Skeleton.Handgun_fbx_6_1_ASCII_Cube_002_Skeleton
+	Asset Name: /Game/Pistol/Handgun_fbx_6_1_ASCII.Handgun_fbx_6_1_ASCII_Gun
+	Asset Name: /Game/Pistol/Handgun_fbx_6_1_ASCII_Gun_Anim.Handgun_fbx_6_1_ASCII_Gun_Anim
+	Asset Name: /Game/Pistol/Handgun_fbx_6_1_ASCII_Gun_PhysicsAsset.Handgun_fbx_6_1_ASCII_Gun_PhysicsAsset
+	Asset Name: /Game/Pistol/Handgun_fbx_6_1_ASCII_Gun_Skeleton.Handgun_fbx_6_1_ASCII_Gun_Skeleton
+[2020.12.06-22.01.29:528][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.12.06-22.04.57:748][136]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.12.06-22.04.58:249][137]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.12.06-22.04.59:752][138]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.12.06-22.05.00:126][140]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2020.12.06-22.06.14:740][362]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.12.06-22.06.24:466][391]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.12.06-22.06.26:480][397]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.12.06-22.06.43:209][447]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.12.06-22.07.14:615][541]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.12.06-22.07.24:956][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.12.06-22.07.25:355][571]LogSavePackage: Moving '../../../../../UNREAL/ProjectFalls/Saved/ThirdPersonExampleMap_Auto1D9A90FCC4B75DF1455D0B8978B3BD0B1.tmp' to '../../../../../UNREAL/ProjectFalls/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.12.06-22.07.25:358][571]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.416
+[2020.12.06-22.07.25:358][571]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.416
+[2020.12.06-22.07.25:359][571]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.12.06-22.07.25:398][571]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.12.06-22.07.25:398][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.12.06-22.07.25:513][571]LogSavePackage: Moving '../../../../../UNREAL/ProjectFalls/Saved/ThirdPersonCharacter_Auto1629930E84AACF26506634083E8C33528.tmp' to '../../../../../UNREAL/ProjectFalls/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2020.12.06-22.07.25:514][571]LogFileHelpers: Auto-saving content packages took 0.156
+[2020.12.06-22.11.01:217][463]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.06-22.11.01:231][463]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.06-22.11.01:231][463]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2020.12.06-22.11.01:268][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.12.06-22.11.01:271][463]LogPlayLevel: PlayLevel: Blueprint regeneration took 40 ms (1 blueprints)
+[2020.12.06-22.11.01:271][463]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 6, 2020, 5:11:01 PM)
+[2020.12.06-22.11.01:271][463]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.12.06-22.11.01:281][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009841s)
+[2020.12.06-22.11.01:283][463]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.12.06-22.11.01:283][463]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001433AB19800), frame # 12463
+[2020.12.06-22.11.01:283][463]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000014332D8FB00), frame # 12463
+[2020.12.06-22.11.01:283][463]LogPlayLevel: PIE: World Init took: (0.001827s)
+[2020.12.06-22.11.01:283][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011854s)
+[2020.12.06-22.11.01:299][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.12.06-22.11.01:300][463]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.06-22.11.01:300][463]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.06-22.11.01:300][463]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.06-22.11.01:300][463]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.06-22.11.01:300][463]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.06-22.11.01:300][463]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.06-22.11.01:300][463]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.06-22.11.01:300][463]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.06-22.11.01:301][463]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.06-22.11.01:301][463]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.06-22.11.01:323][463]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.06-22.11.01:323][463]LogAudioMixer: Display: 1: FrontRight
+[2020.12.06-22.11.01:372][463]LogAudioMixer: Display: Using Audio Device Alto-falantes (Jabra EVOLVE 20)
+[2020.12.06-22.11.01:372][463]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.06-22.11.01:372][463]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.06-22.11.01:372][463]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.06-22.11.01:373][463]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.06-22.11.01:387][463]LogInit: FAudioDevice initialized.
+[2020.12.06-22.11.01:392][463]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.12.06-22.11.01:394][463]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.12.06-19.11.01
+[2020.12.06-22.11.01:394][463]LogWorld: Bringing up level for play took: 0.001080
+[2020.12.06-22.11.01:394][463]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.12.06-22.11.01:397][463]PIE: Server logged in
+[2020.12.06-22.11.01:397][463]PIE: Play in editor total start time 0.173 seconds.
+[2020.12.06-22.11.08:725][327]Cmd: LevelEditor.ToggleImmersive
+[2020.12.06-22.11.08:836][328]LogRenderer: Reallocating scene render targets to support 1924x884 Format 9 NumSamples 1 (Frame:866).
+[2020.12.06-22.11.08:874][329]LogRenderer: Reallocating scene render targets to support 2228x908 Format 9 NumSamples 1 (Frame:868).
+[2020.12.06-22.11.57:862][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.06-22.11.57:862][969]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.12.06-22.11.57:862][969]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-22.11.57:862][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-22.11.57:880][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.06-22.11.57:883][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-22.11.57:895][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.06-22.11.57:914][969]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000014332D8FB00), frame # 17969
+[2020.12.06-22.11.57:914][969]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001433AB19800), frame # 17969
+[2020.12.06-22.11.57:915][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.12.06-22.11.57:927][969]LogRenderer: Reallocating scene render targets to support 2560x1040 Format 9 NumSamples 1 (Frame:15760).
+[2020.12.06-22.11.57:943][970]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.12.06-22.11.58:806][ 23]Cmd: SELECT NONE
+[2020.12.06-22.12.00:485][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.12.06-22.12.00:615][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.12.06-22.12.00:643][158]LogSavePackage: Moving '../../../../../UNREAL/ProjectFalls/Saved/ThirdPersonExampleMap35B9E53A4EFF37FB4BA9F685A8412EC5.tmp' to '../../../../../UNREAL/ProjectFalls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.12.06-22.12.00:659][158]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.059
+[2020.12.06-22.12.00:762][158]LogSavePackage: Moving '../../../../../UNREAL/ProjectFalls/Saved/ThirdPersonExampleMap_BuiltData1E5568D045AA8AA0A5F0CFAFA4D63B17.tmp' to '../../../../../UNREAL/ProjectFalls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.12.06-22.12.00:764][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="../../../../../UNREAL/ProjectFalls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.12.06-22.12.00:806][158]LogSavePackage: Moving '../../../../../UNREAL/ProjectFalls/Saved/ThirdPersonCharacter15973CCB4979464C1F7486ADB1CE512C.tmp' to '../../../../../UNREAL/ProjectFalls/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.12.06-22.12.00:873][158]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.06-22.12.00:873][158]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.12.06-22.12.00:873][158]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.12.06-22.12.00:873][158]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.12.06-22.12.35:193][555]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../NightmareStudios/Objetos/Armas/Pistol/Colt_Python.FBX)
+[2020.12.06-22.12.35:205][555]LogFbx: Loading FBX Scene from ../../../../../NightmareStudios/Objetos/Armas/Pistol/Colt_Python.FBX
+[2020.12.06-22.12.35:220][555]LogFbx: FBX Scene Loaded Succesfully
+[2020.12.06-22.12.39:971][555]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.12.06-22.12.40:064][555]LogFbxMaterialImport: Display: Unable to find Texture file diffuse.tga
+[2020.12.06-22.12.40:065][555]LogFbxMaterialImport: Display: Unable to find Texture file specular.tga
+[2020.12.06-22.12.40:066][555]LogFbxMaterialImport: Display: Unable to find Texture file gloss.tga
+[2020.12.06-22.12.40:067][555]LogFbxMaterialImport: Display: Unable to find Texture file normal.tga
+[2020.12.06-22.12.40:197][555]LogStaticMesh: Building static mesh Colt_Python...
+[2020.12.06-22.12.40:268][555]LogStaticMesh: Built static mesh [0.07s] /Game/Pistol/Colt_Python.Colt_Python
+[2020.12.06-22.12.40:347][555]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.12.06-22.12.42:364][784]LogSlate: Window 'Message Log' being destroyed
+[2020.12.06-22.12.42:369][784]LogSlate: Window 'Message Log' being destroyed
+[2020.12.06-22.22.00:527][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.12.06-22.22.00:530][706]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.019
+[2020.12.06-22.22.00:530][706]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Pistol/Colt_Python] ([1] browsable assets)...
+[2020.12.06-22.22.00:549][706]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Pistol/Colt_Python.Colt_Python]
+[2020.12.06-22.22.00:549][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pistol/Colt_Python]
+[2020.12.06-22.22.00:549][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pistol/Colt_Python" FILE="../../../../../UNREAL/ProjectFalls/Saved/Autosaves/Game/Pistol/Colt_Python_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.12.06-22.22.00:567][706]LogSavePackage: Moving '../../../../../UNREAL/ProjectFalls/Saved/Colt_Python_Auto29BD7A5104B835377CD2ED0B28A3D3954.tmp' to '../../../../../UNREAL/ProjectFalls/Saved/Autosaves/Game/Pistol/Colt_Python_Auto2.uasset'
+[2020.12.06-22.22.00:569][706]LogFileHelpers: Auto-saving content packages took 0.039
+[2020.12.06-22.34.49:480][667]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../NightmareStudios/Objetos/Armas/Pistol/1001_Base_Color.png)
+[2020.12.06-22.34.49:635][667]LogTexture: Display: Building textures: 1001_Base_Color (AutoDXT, 2048X2048)
+[2020.12.06-22.34.50:503][667]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../NightmareStudios/Objetos/Armas/Pistol/1001_Height.png)
+[2020.12.06-22.34.50:539][667]LogTexture: Display: Building textures: 1001_Height (AutoDXT, 2048X2048)
+[2020.12.06-22.34.50:893][667]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../NightmareStudios/Objetos/Armas/Pistol/1001_Metallic.png)
+[2020.12.06-22.34.50:931][667]LogTexture: Display: Building textures: 1001_Metallic (AutoDXT, 2048X2048)
+[2020.12.06-22.34.51:446][667]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../NightmareStudios/Objetos/Armas/Pistol/1001_Normal.png)
+[2020.12.06-22.34.51:554][667]LogTexture: Display: Building textures: 1001_Normal (BC5, 2048X2048)
+[2020.12.06-22.34.51:792][667]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../NightmareStudios/Objetos/Armas/Pistol/1001_Normal_DirectX.png)
+[2020.12.06-22.34.51:950][667]LogTexture: Display: Building textures: 1001_Normal_DirectX (BC5, 2048X2048)
+[2020.12.06-22.34.52:250][667]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../NightmareStudios/Objetos/Armas/Pistol/1001_Roughness.png)
+[2020.12.06-22.34.52:297][667]LogTexture: Display: Building textures: 1001_Roughness (AutoDXT, 2048X2048)
+[2020.12.06-22.34.54:812][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pistol/1001_Roughness" FILE="../../../../../UNREAL/ProjectFalls/Content/Pistol/1001_Roughness.uasset" SILENT=true
+[2020.12.06-22.34.54:869][876]LogSavePackage: Moving '../../../../../UNREAL/ProjectFalls/Saved/1001_Roughness9C777CA642CE66A3108682ACE42749BB.tmp' to '../../../../../UNREAL/ProjectFalls/Content/Pistol/1001_Roughness.uasset'
+[2020.12.06-22.34.54:876][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pistol/1001_Normal_DirectX" FILE="../../../../../UNREAL/ProjectFalls/Content/Pistol/1001_Normal_DirectX.uasset" SILENT=true
+[2020.12.06-22.34.55:190][876]LogSavePackage: Moving '../../../../../UNREAL/ProjectFalls/Saved/1001_Normal_DirectX9AE4BE1A4227DAB2B355F1AF9C37A482.tmp' to '../../../../../UNREAL/ProjectFalls/Content/Pistol/1001_Normal_DirectX.uasset'
+[2020.12.06-22.34.55:197][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pistol/1001_Normal" FILE="../../../../../UNREAL/ProjectFalls/Content/Pistol/1001_Normal.uasset" SILENT=true
+[2020.12.06-22.34.55:408][876]LogSavePackage: Moving '../../../../../UNREAL/ProjectFalls/Saved/1001_NormalC17F40364CABC358F2B41987B988211D.tmp' to '../../../../../UNREAL/ProjectFalls/Content/Pistol/1001_Normal.uasset'
+[2020.12.06-22.34.55:414][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pistol/1001_Metallic" FILE="../../../../../UNREAL/ProjectFalls/Content/Pistol/1001_Metallic.uasset" SILENT=true
+[2020.12.06-22.34.55:470][876]LogSavePackage: Moving '../../../../../UNREAL/ProjectFalls/Saved/1001_MetallicCD0436F64F16DA6F7A5DB3849556FE85.tmp' to '../../../../../UNREAL/ProjectFalls/Content/Pistol/1001_Metallic.uasset'
+[2020.12.06-22.34.55:471][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pistol/Colt_Python" FILE="../../../../../UNREAL/ProjectFalls/Content/Pistol/Colt_Python.uasset" SILENT=true
+[2020.12.06-22.34.55:486][876]LogSavePackage: Moving '../../../../../UNREAL/ProjectFalls/Saved/Colt_PythonEEDE7F384D563E666521D9834CB0F991.tmp' to '../../../../../UNREAL/ProjectFalls/Content/Pistol/Colt_Python.uasset'
+[2020.12.06-22.34.55:493][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pistol/1001_Height" FILE="../../../../../UNREAL/ProjectFalls/Content/Pistol/1001_Height.uasset" SILENT=true
+[2020.12.06-22.34.55:566][876]LogSavePackage: Moving '../../../../../UNREAL/ProjectFalls/Saved/1001_Height3590BE0345AE61D172961B9FB8D18EE3.tmp' to '../../../../../UNREAL/ProjectFalls/Content/Pistol/1001_Height.uasset'
+[2020.12.06-22.34.55:572][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pistol/1001_Base_Color" FILE="../../../../../UNREAL/ProjectFalls/Content/Pistol/1001_Base_Color.uasset" SILENT=true
+[2020.12.06-22.34.55:748][876]LogSavePackage: Moving '../../../../../UNREAL/ProjectFalls/Saved/1001_Base_ColorC8F0DBB34BEA36C1C7F84BBDFAF4B3C9.tmp' to '../../../../../UNREAL/ProjectFalls/Content/Pistol/1001_Base_Color.uasset'
+[2020.12.06-22.34.55:784][876]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.06-22.34.55:784][876]LogContentValidation: Display: Validating Texture2D /Game/Pistol/1001_Roughness.1001_Roughness
+[2020.12.06-22.34.55:784][876]LogContentValidation: Display: Validating Texture2D /Game/Pistol/1001_Normal_DirectX.1001_Normal_DirectX
+[2020.12.06-22.34.55:784][876]LogContentValidation: Display: Validating Texture2D /Game/Pistol/1001_Normal.1001_Normal
+[2020.12.06-22.34.55:784][876]LogContentValidation: Display: Validating Texture2D /Game/Pistol/1001_Metallic.1001_Metallic
+[2020.12.06-22.34.55:784][876]LogContentValidation: Display: Validating StaticMesh /Game/Pistol/Colt_Python.Colt_Python
+[2020.12.06-22.34.55:784][876]LogContentValidation: Display: Validating Texture2D /Game/Pistol/1001_Height.1001_Height
+[2020.12.06-22.34.55:784][876]LogContentValidation: Display: Validating Texture2D /Game/Pistol/1001_Base_Color.1001_Base_Color
+[2020.12.06-22.35.03:913][682]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Pistol/Mt_Colt.Mt_Colt
+[2020.12.06-22.35.03:934][682]LogMaterial: Display: Missing cached shader map for material Mt_Colt, compiling. 
+[2020.12.06-22.35.04:396][682]LogMaterial: Display: Missing cached shader map for material Mt_Colt, compiling. 
+[2020.12.06-22.35.04:469][682]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.12.06-22.35.04:469][682]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.12.06-22.35.04:469][682]LogMaterial: Display: Missing cached shader map for material Mt_Colt, compiling. 
+[2020.12.06-22.35.06:177][768]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.12.06-22.35.06:243][774]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.12.06-22.35.06:675][813]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.12.06-22.35.06:697][815]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.12.06-22.35.07:025][839]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.12.06-22.35.07:126][839]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.12.06-22.35.07:381][842]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.12.06-22.35.07:397][844]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.12.06-22.35.07:896][889]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.12.06-22.35.08:281][915]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.12.06-22.35.08:281][915]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.12.06-22.35.08:281][915]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.12.06-22.35.08:281][915]MaterialEditorStats: Texture samplers: 2/16
+[2020.12.06-22.35.11:276][ 86]LogMaterial: Display: Missing cached shader map for material Mt_Colt, compiling. 
+[2020.12.06-22.35.11:282][ 86]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.12.06-22.35.11:312][ 86]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.12.06-22.35.11:312][ 86]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.12.06-22.35.11:316][ 86]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.12.06-22.35.11:747][115]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.12.06-22.35.11:826][122]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.12.06-22.35.12:050][141]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.12.06-22.35.12:272][156]LogRHI: Error: Present Fail Count 1
+[2020.12.06-22.35.12:272][156]LogRHI: Error: SyncInterval 0
+[2020.12.06-22.35.12:272][156]LogRHI: Error: SwapChainDesc.BufferDesc.Width 152
+[2020.12.06-22.35.12:272][156]LogRHI: Error: SwapChainDesc.BufferDesc.Height 26
+[2020.12.06-22.35.12:272][156]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.12.06-22.35.12:272][156]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.12.06-22.35.12:272][156]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.12.06-22.35.12:272][156]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.12.06-22.35.12:272][156]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.12.06-22.35.12:272][156]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.12.06-22.35.12:272][156]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.12.06-22.35.12:272][156]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.12.06-22.35.12:272][156]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.12.06-22.35.12:272][156]LogRHI: Error: SwapChainDesc.OutputWindow 00000000001C0630
+[2020.12.06-22.35.12:272][156]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.12.06-22.35.12:272][156]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.12.06-22.35.12:272][156]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.12.06-22.35.12:303][156]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:348 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2020.12.06-22.35.12:303][156]LogD3D11RHI: [Aftermath] GDynamicRHI=00000142E9F420C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.12.06-22.35.12:303][156]LogWindows: Windows GetLastError: A operação foi concluída com êxito. (0)
+[2020.12.06-22.35.12:303][156]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
