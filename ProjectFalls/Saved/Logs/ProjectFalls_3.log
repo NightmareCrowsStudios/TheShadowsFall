@@ -1,0 +1,727 @@
+﻿Log file open, 01/27/21 21:30:33
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: ProjectFalls
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.795289
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AnimatedTexture
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz, GPU: Intel(R) HD Graphics 5500
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.28-00.30.35:944][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.28-00.30.35:944][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.28-00.30.35:944][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Engine.ini]
+[2021.01.28-00.30.35:944][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.28-00.30.35:944][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Engine.ini]
+[2021.01.28-00.30.35:944][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Engine.ini]
+[2021.01.28-00.30.35:944][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Engine.ini]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.01.28-00.30.35:945][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Engine.ini]
+[2021.01.28-00.30.35:946][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Engine.ini]
+[2021.01.28-00.30.35:959][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.30.35:959][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.28-00.30.35:959][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.28-00.30.35:959][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.30.35:959][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.28-00.30.35:959][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.30.35:959][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.28-00.30.35:959][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.28-00.30.35:959][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.28-00.30.35:959][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.28-00.30.35:959][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.28-00.30.35:959][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.28-00.30.35:959][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.28-00.30.35:959][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.28-00.30.35:959][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.28-00.30.35:959][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.28-00.30.35:959][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.28-00.30.35:960][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.28-00.30.35:961][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.28-00.30.35:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.28-00.30.35:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.28-00.30.35:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.28-00.30.35:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.28-00.30.35:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.28-00.30.35:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.28-00.30.35:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.28-00.30.35:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.28-00.30.35:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.28-00.30.35:962][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.28-00.30.35:962][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.30.35:962][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.28-00.30.35:962][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.28-00.30.35:962][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.30.35:962][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.28-00.30.35:962][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.28-00.30.35:962][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.28-00.30.35:962][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.28-00.30.35:962][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.28-00.30.35:962][  0]LogHAL: Display: Platform has ~ 8 GB [8500097024 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.28-00.30.35:962][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.28-00.30.35:962][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.30.35:962][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.28-00.30.35:962][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.28-00.30.35:963][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.28-00.30.35:964][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.28-00.30.35:965][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.30.35:965][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.28-00.30.35:966][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.28-00.30.35:966][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-00.30.35:966][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.28-00.30.35:966][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.28-00.30.35:966][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.28-00.30.35:966][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.28-00.30.35:985][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.28-00.30.35:985][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.28-00.30.35:985][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.28-00.30.35:985][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Config/Windows/Engine.ini]
+[2021.01.28-00.30.35:985][  0]LogInit: Computer: DESKTOP-M883DPF
+[2021.01.28-00.30.35:985][  0]LogInit: User: cassi
+[2021.01.28-00.30.35:985][  0]LogInit: CPU Page size=4096, Cores=2
+[2021.01.28-00.30.35:986][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.28-00.30.35:986][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.01.28-00.30.35:986][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.28-00.30.35:986][  0]LogMemory: Process Physical Memory: 132.45 MB used, 132.45 MB peak
+[2021.01.28-00.30.35:986][  0]LogMemory: Process Virtual Memory: 117.09 MB used, 117.09 MB peak
+[2021.01.28-00.30.35:986][  0]LogMemory: Physical Memory: 4480.36 MB used,  3625.96 MB free, 8106.32 MB total
+[2021.01.28-00.30.35:986][  0]LogMemory: Virtual Memory: 134212568.00 MB used,  5157.07 MB free, 134217728.00 MB total
+[2021.01.28-00.30.35:990][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.28-00.30.36:564][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.01.28-00.30.36:764][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.01.28-00.30.36:764][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2021.01.28-00.30.39:533][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.28-00.30.40:411][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.28-00.30.41:852][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.28-00.30.41:852][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.28-00.31.13:750][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.28-00.31.13:750][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.28-00.31.13:750][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.28-00.31.13:750][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.28-00.31.13:793][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2021.01.28-00.31.13:793][  0]LogD3D11RHI:       128/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.01.28-00.31.14:027][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.28-00.31.14:027][  0]LogD3D11RHI:       0/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.28-00.31.14:027][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.28-00.31.14:153][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.28-00.31.14:153][  0]LogD3D11RHI:     GPU DeviceId: 0x1616 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.28-00.31.14:153][  0]LogWindows: EnumDisplayDevices:
+[2021.01.28-00.31.14:154][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2021.01.28-00.31.14:154][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2021.01.28-00.31.14:155][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2021.01.28-00.31.14:156][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2021.01.28-00.31.14:176][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 5500
+[2021.01.28-00.31.14:176][  0]LogD3D11RHI:   Driver Version: 20.19.15.4531 (internal:20.19.15.4531, unified:20.19.15.4531)
+[2021.01.28-00.31.14:176][  0]LogD3D11RHI:      Driver Date: 9-29-2016
+[2021.01.28-00.31.14:220][  0]LogRHI: Texture pool is 1508 MB (70% of 2154 MB)
+[2021.01.28-00.31.14:331][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.01.28-00.31.14:331][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.28-00.31.14:331][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.01.28-00.31.15:855][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2021.01.28-00.31.30:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.28-00.31.30:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.28-00.31.30:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.28-00.31.30:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.28-00.31.30:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.28-00.31.30:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.28-00.31.30:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.28-00.31.30:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.28-00.31.30:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.28-00.31.30:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.28-00.31.30:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.28-00.31.31:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.28-00.31.31:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.28-00.31.31:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.01.28-00.31.31:978][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.28-00.31.32:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.28-00.31.32:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.28-00.31.32:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.28-00.31.32:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.28-00.31.32:872][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.28-00.31.33:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.28-00.31.33:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.28-00.31.33:136][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.01.28-00.31.33:215][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.01.28-00.31.33:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.01.28-00.31.33:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.01.28-00.31.33:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.28-00.31.33:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.28-00.31.33:913][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.28-00.31.33:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.28-00.31.33:978][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.28-00.31.34:278][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.28-00.31.34:278][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.28-00.31.35:071][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.28-00.31.39:141][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.01.28-00.31.39:169][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/Shaders/WorkingDirectory/7472/).
+[2021.01.28-00.31.39:170][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cassi/AppData/Local/Temp/UnrealShaderWorkingDir/C7DE33B8439BD41175731FA42F16BDF6/'.
+[2021.01.28-00.31.39:226][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.28-00.31.39:227][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.28-00.32.10:396][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.28-00.32.11:542][  0]LogDerivedDataCache: Loaded boot cache 1.12s 77MB C:/Users/cassi/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.28-00.32.11:542][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/cassi/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.01.28-00.32.11:542][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.28-00.32.11:542][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.28-00.32.11:543][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.28-00.32.11:543][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.28-00.32.11:955][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.28-00.32.11:955][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.28-00.32.11:955][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.28-00.32.12:462][  0]LogDerivedDataCache: Speed tests for C:/Users/cassi/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.49 seconds
+[2021.01.28-00.32.12:462][  0]LogDerivedDataCache: Display: Performance to C:/Users/cassi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=19.52ms. RandomReadSpeed=6.06MBs, RandomWriteSpeed=9.38MBs. Assigned SpeedClass 'Ok'
+[2021.01.28-00.32.12:465][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cassi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.28-00.32.12:465][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.28-00.32.12:465][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.28-00.32.13:190][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.28-00.32.13:482][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.28-00.32.15:646][  0]LogAssetRegistry: FAssetRegistry took 0.0620 seconds to start up
+[2021.01.28-00.33.06:770][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.28-00.33.06:771][  0]LogInit: Active device profile: [000002A218F1A200][000002A2184ED180 49] Windows
+[2021.01.28-00.33.06:771][  0]LogInit: Profiles: [000002A218F1A200][000002A2184ED180 49] Windows, [000002A218D52B00][000002A2184F5300 49] WindowsNoEditor, [000002A218F19100][000002A2184F9480 49] WindowsServer, [000002A218D53B00][000002A2184FD600 49] WindowsClient, [000002A218F18100][000002A2184F1740 49] IOS, [000002A218D50C00][000002A218501880 49] iPadAir, [000002A218F1AF00][000002A2185059C0 49] iPadAir2, [000002A218CE2600][000002A218515C40 49] IPadPro, [000002A218CE2700][000002A21850DC80 49] iPadAir3, [000002A218D50F00][000002A218518140 49] iPadAir4, [000002A218CE2900][000002A21851C2C0 49] iPadMini2, [000002A218D51100][000002A218520440 49] iPadMini3, [000002A218CE1200][000002A2185245C0 49] iPadMini4, [000002A218D52400][000002A218528740 49] iPadMini5, [000002A218D29F00][000002A218530A00 49] iPhone6, [000002A218D2A000][000002A21852CA40 49] iPodTouch6, [000002A218CE1A00][000002A218538D00 49] iPhone7, [000002A218CE1900][000002A218534D40 49] iPodTouch7, [000002A218D2B800][000002A21853CEC0 49] iPhone5S, [000002A218CE1C00][000002A218541040 49] iPhone6Plus, [000002A218D29400][000002A2185451C0 49] iPhone6S, [000002A218CE0200][000002A218549340 49] iPhone6SPlus, [000002A218D28300][000002A21854D4C0 49] iPhone7Plus, [000002A218CE0400][000002A218551640 49] iPhoneSE, [000002A218D2AB00][000002A2185557C0 49] iPhone8, [000002A218CE3000][000002A218511900 49] iPhone8Plus, [000002A218D29900][000002A218559A40 49] iPhoneX, [000002A218CE2100][000002A21855DB80 49] iPhoneXS, [000002A218D2BB00][000002A218565D00 49] iPhoneXSMax, [000002A218CE3F00][000002A2185681C0 49] iPhoneXR, [000002A218D29A00][000002A21856C340 49] iPhone11, [000002A218CE0A00][000002A2185704C0 49] iPhone11Pro, [000002A218D2AC00][000002A218574640 49] iPhone11ProMax, [000002A218CE3700][000002A2185787C0 49] iPhoneSE2, [000002A218D28500][000002A21857C940 49] iPhone12Mini, [000002A218CE2500][000002A218580AC0 49] iPhone12, [000002A218D2A400][000002A218584C40 49] iPhone12Pro, [000002A218CE3C00][000002A218588DC0 49] iPhone12ProMax, [000002A218D29D00][000002A21858CF40 49] iPadPro105, [000002A218F1A100][000002A2185910C0 49] iPadPro129, [000002A218D2B700][000002A218595240 49] iPadPro97, [000002A218F1A500][000002A2185993C0 49] iPadPro2_129, [000002A218D28900][000002A21859D540 49] iPad5, [000002A218F1B000][000002A2027AD6C0 49] iPad6, [000002A218D2B500][000002A2027B1840 49] iPad7, [000002A218F1B600][000002A218561980 49] iPad8, [000002A218D2A700][000002A2027B5AC0 49] iPadPro11, [000002A218F1A900][000002A2027B9C00 49] iPadPro2_11, [000002A218D29B00][000002A2027C00C0 49] iPadPro3_129, [000002A218F19A00][000002A2027C4240 49] iPadPro4_129, [000002A218D29600][000002A2027C83C0 49] AppleTV, [000002A218F18800][000002A2027CC540 49] AppleTV4K, [000002A218D2A800][000002A2027D06C0 49] TVOS, [000002A218F1B200][000002A2027D4840 49] Mac, [000002A218D2A200][000002A2027D89C0 49] MacClient, [000002A218F18300][000002A2027DCB40 49] MacNoEditor, [000002A218D28F00][000002A2027E0CC0 49] MacServer, [000002A218F1AB00][000002A2027E4E40 49] Linux, [000002A218D2A600][000002A2027E8FC0 49] LinuxNoEditor, [000002A218F19C00][000002A2027ED140 49] LinuxAArch64NoEditor, [000002A218D29700][000002A2027F12C0 49] LinuxClient, [000002A218F1AA00][000002A2027F5440 49] LinuxAArch64Client, [000002A218D28A00][000002A2027F95C0 49] LinuxServer, [000002A218F18500][000002A2195B1740 49] LinuxAArch64Server, [000002A218D29500][000002A2195B58C0 49] Android, [000002A218F1B100][000002A2027BDA00 49] Android_Low, [000002A218D29C00][000002A2195B9B40 49] Android_Mid, [000002A218F19B00][000002A2195BDC80 49] Android_High, [000002A218D2BF00][000002A2195C0100 49] Android_Default, [000002A218F18A00][000002A2195C8280 49] Android_Adreno4xx, [000002A218D28D00][000002A2195CC400 49] Android_Adreno5xx_Low, [000002A218F1B700][000002A2195D0580 49] Android_Adreno5xx, [000002A218D2BA00][000002A2195D4700 49] Android_Adreno6xx, [000002A218F1BA00][000002A2195D8880 49] Android_Adreno6xx_Vulkan, [000002A218D2AF00][000002A2195DCA00 49] Android_Mali_T6xx, [000002A218F19000][000002A2195E0B80 49] Android_Mali_T7xx, [000002A218D2B300][000002A2195E4D00 49] Android_Mali_T8xx, [000002A218F1B500][000002A2195E8E80 49] Android_Mali_G71, [000002A218D28600][000002A2195ED000 49] Android_Mali_G72, [000002A218F19D00][000002A2195F1180 49] Android_Mali_G72_Vulkan, [000002A218D2BD00][000002A2195F5300 49] Android_Mali_G76, [000002A218F18600][000002A2195F9480 49] Android_Mali_G76_Vulkan, [000002A218D2B200][000002A2195FD600 49] Android_Mali_G77, [000002A218F19F00][000002A219601780 49] Android_Mali_G77_Vulkan, [000002A218D53000][000002A219605900 49] Android_Vulkan_SM5, [000002A218CE3600][000002A2195C5A40 49] Android_PowerVR_G6xxx, [000002A218D52200][000002A219609B80 49] Android_PowerVR_GT7xxx, [000002A218CE0500][000002A21960DCC0 49] Android_PowerVR_GE8xxx, [000002A218D53400][000002A219610140 49] Android_PowerVR_GM9xxx, [000002A218CE1500][000002A2196182C0 49] Android_PowerVR_GM9xxx_Vulkan, [000002A218D52E00][000002A21961C440 49] Android_TegraK1, [000002A218CE0C00][000002A2196205C0 49] Android_Unknown_Vulkan, [000002A218D50400][000002A219624740 49] Lumin, [000002A218CE3800][000002A2196288C0 49] Lumin_Desktop, [000002A218D52000][000002A21962CA40 49] HoloLens, 
+[2021.01.28-00.33.26:223][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.28-00.33.26:224][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.28-00.33.26:224][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.28-00.33.26:224][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.28-00.33.26:274][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.28-00.33.36:156][  0]LogNetVersion: ProjectFalls 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2528186279)
+[2021.01.28-00.34.26:380][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.01.28-00.34.26:894][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/866581fd.bin
+[2021.01.28-00.34.26:904][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/6bead350.bin
+[2021.01.28-00.34.26:910][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin.tmp' to '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin' (Error Code 32), retrying in .5s...
+[2021.01.28-00.34.27:411][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin.tmp' to '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin' (Error Code 2), retrying in .5s...
+[2021.01.28-00.34.27:911][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin.tmp' to '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin' (Error Code 2), retrying in .5s...
+[2021.01.28-00.34.28:412][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin.tmp' to '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin' (Error Code 2), retrying in .5s...
+[2021.01.28-00.34.28:913][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin.tmp' to '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin' (Error Code 2), retrying in .5s...
+[2021.01.28-00.34.29:413][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin.tmp' to '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin' (Error Code 2), retrying in .5s...
+[2021.01.28-00.34.29:914][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin.tmp' to '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin' (Error Code 2), retrying in .5s...
+[2021.01.28-00.34.30:415][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin.tmp' to '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin' (Error Code 2), retrying in .5s...
+[2021.01.28-00.34.30:916][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin.tmp' to '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin' (Error Code 2), retrying in .5s...
+[2021.01.28-00.34.31:416][  0]LogFileManager: Warning: MoveFile was unable to move '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin.tmp' to '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin' (Error Code 2), retrying in .5s...
+[2021.01.28-00.34.31:917][  0]LogFileManager: Error: Error moving file '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin.tmp' to '../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Intermediate/AssetRegistryCache/218409f6.bin'.
+[2021.01.28-00.34.32:011][  0]LogPackageLocalizationCache: Processed 23 localized package path(s) for 1 prioritized culture(s) in 5.465563 seconds
+[2021.01.28-00.34.32:023][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.01.28-00.34.32:023][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.01.28-00.34.32:023][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.28-00.34.44:178][  0]LogTexture: Display: Building textures: default_normal (BC5, 64X64)
+[2021.01.28-00.34.44:178][  0]LogTexture: Display: Building textures: default_color (AutoDXT, 64X64)
+[2021.01.28-00.34.44:178][  0]LogMaterial: Display: Missing cached shader map for material Substance_Basic_Template, compiling. 
+[2021.01.28-00.34.44:864][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.01.28-00.34.44:864][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.01.28-00.34.44:864][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2021.01.28-00.34.45:407][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2021.01.28-00.34.45:977][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.28-00.34.46:019][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.28-00.34.51:695][  0]SourceControl: Source control is disabled
+[2021.01.28-00.34.51:711][  0]SourceControl: Source control is disabled
+[2021.01.28-00.34.52:102][  0]SourceControl: Source control is disabled
+[2021.01.28-00.34.52:180][  0]SourceControl: Source control is disabled
+[2021.01.28-00.34.52:509][  0]SourceControl: Source control is disabled
+[2021.01.28-00.34.52:582][  0]LogUProjectInfo: Found projects:
+[2021.01.28-00.35.03:225][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.28-00.35.03:610][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.28-00.35.03:610][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.28-00.35.04:760][  0]LogCollectionManager: Loaded 0 collections in 0.003868 seconds
+[2021.01.28-00.35.05:225][  0]LogFileCache: Scanning file cache for directory 'C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Saved/Collections/' took 0.01s
+[2021.01.28-00.35.05:225][  0]LogFileCache: Scanning file cache for directory 'C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Content/Developers/cassi/Collections/' took 0.01s
+[2021.01.28-00.35.05:225][  0]LogFileCache: Scanning file cache for directory 'C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Content/Collections/' took 0.00s
+[2021.01.28-00.35.05:225][  0]LogOcInput: OculusInput pre-init called
+[2021.01.28-00.35.05:601][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.28-00.35.05:601][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.28-00.35.10:249][  0]LogAutomationTest: Warning: Smoke tests took >2s to run (2.30s). 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' took 1982ms. SmokeFilter tier tests should take less than 1ms. Please optimize or move 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' to a slower tier than SmokeFilter.
+[2021.01.28-00.35.10:457][  0]LogEngine: Initializing Engine...
+[2021.01.28-00.35.10:574][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.28-00.35.10:591][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.01.28-00.35.10:750][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.029 s
+[2021.01.28-00.35.11:547][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.28-00.35.13:305][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.28-00.35.13:692][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.01.28-00.35.13:767][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.01.28-00.35.13:767][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.01.28-00.35.13:821][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.28-00.35.13:821][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.28-00.35.13:821][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.28-00.35.13:821][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.28-00.35.13:821][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.28-00.35.13:821][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.28-00.35.13:821][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.28-00.35.13:839][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.28-00.35.13:866][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.28-00.35.13:867][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.28-00.35.14:126][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.28-00.35.14:126][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.28-00.35.14:956][  0]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek High Definition Audio)
+[2021.01.28-00.35.15:295][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.28-00.35.15:371][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.28-00.35.15:372][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.28-00.35.15:473][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.28-00.35.15:485][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.28-00.35.15:485][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.28-00.35.15:489][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.28-00.35.15:489][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.28-00.35.15:489][  0]LogInit: FAudioDevice initialized.
+[2021.01.28-00.35.15:592][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.01.28-00.35.15:592][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.01.28-00.35.15:601][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.28-00.35.16:956][  0]LogDerivedDataCache: Saved boot cache 1.35s 77MB C:/Users/cassi/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.28-00.35.16:965][  0]LogInit: Texture streaming: Enabled
+[2021.01.28-00.35.17:267][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.01.28-00.35.17:824][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.28-00.35.17:824][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.28-00.35.18:630][  0]LogInit: Transaction tracking system initialized
+[2021.01.28-00.35.19:460][  0]BlueprintLog: New page: Editor Load
+[2021.01.28-00.35.22:289][  0]LocalizationService: Localization service is disabled
+[2021.01.28-00.35.23:008][  0]TimingProfiler: Initialize
+[2021.01.28-00.35.23:018][  0]TimingProfiler: OnSessionChanged
+[2021.01.28-00.35.23:019][  0]LoadingProfiler: Initialize
+[2021.01.28-00.35.23:019][  0]LoadingProfiler: OnSessionChanged
+[2021.01.28-00.35.23:019][  0]NetworkingProfiler: Initialize
+[2021.01.28-00.35.23:029][  0]NetworkingProfiler: OnSessionChanged
+[2021.01.28-00.35.23:030][  0]MemoryProfiler: Initialize
+[2021.01.28-00.35.23:031][  0]MemoryProfiler: OnSessionChanged
+[2021.01.28-00.35.23:096][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2021.01.28-00.35.23:096][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2021.01.28-00.35.27:281][  0]LogFileCache: Scanning file cache for directory 'C:/desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Content/' took 0.06s
+[2021.01.28-00.35.27:281][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.01.28-00.35.27:281][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.28-00.35.55:711][  0]SourceControl: Source control is disabled
+[2021.01.28-00.35.55:944][  0]LogUnrealEdMisc: Loading editor; pre map load, took 326.786
+[2021.01.28-00.35.56:017][  0]Cmd: MAP LOAD FILE="../../../../../../desenvolvimento/jogos/TheShadowsFall/ProjectFalls/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.28-00.35.56:035][  0]LightingResults: New page: Lighting Build
+[2021.01.28-00.35.56:208][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-00.35.56:345][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-00.35.56:524][  0]MapCheck: New page: Map Check
+[2021.01.28-00.35.56:524][  0]LightingResults: New page: Lighting Build
+[2021.01.28-00.36.16:659][  0]LogUObjectHash: Compacting FUObjectHashTables data took  17.66ms
+[2021.01.28-00.36.18:482][  0]LogBlueprint: Warning: [AssetLog] C:\desenvolvimento\jogos\TheShadowsFall\ProjectFalls\Content\Iventário\Iventário.uasset: [Compiler] Cast To Iventário  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.01.28-00.36.18:499][  0]LogBlueprint: Warning: [AssetLog] C:\desenvolvimento\jogos\TheShadowsFall\ProjectFalls\Content\Iventário\Iventário.uasset: [Compiler] On Clicked (Button_154)  does not have a valid matching component!
+[2021.01.28-00.39.20:790][  0]LogTexture: Display: Building textures: 1001_Metallic (AutoDXT, 2048X2048)
+[2021.01.28-00.39.20:790][  0]LogTexture: Display: Building textures: 1001_Mixed_AO (AutoDXT, 2048X2048)
+[2021.01.28-00.39.20:790][  0]LogTexture: Display: Building textures: 1001_Base_Color (AutoDXT, 2048X2048)
+[2021.01.28-00.39.20:790][  0]LogTexture: Display: Building textures: UE4_Demo_Head__normals (BC5, 4096X4096)
+[2021.01.28-00.39.20:790][  0]LogMaterial: Display: Missing cached shader map for material New_Jaquet, compiling. 
+[2021.01.28-00.40.49:640][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2021.01.28-00.40.49:640][  0]LogTexture: Display: Building textures: Head_Base_Color (AutoDXT, 2048X2048)
+[2021.01.28-00.40.49:640][  0]LogTexture: Display: Building textures: Sclera_Tweak_R (AutoDXT, 4096X4096)
+[2021.01.28-00.40.49:640][  0]LogMaterial: Display: Missing cached shader map for material barba_mt, compiling. 
+[2021.01.28-00.40.49:876][  0]LogSkeletalMesh: Building Skeletal Mesh MAX_new...
+[2021.01.28-00.40.59:738][  0]LogSkeletalMesh: Section 0: Material=0, 1380 triangles
+[2021.01.28-00.40.59:738][  0]LogSkeletalMesh: Section 1: Material=1, 23007 triangles
+[2021.01.28-00.40.59:738][  0]LogSkeletalMesh: Section 2: Material=2, 101656 triangles
+[2021.01.28-00.40.59:738][  0]LogSkeletalMesh: Section 3: Material=3, 6912 triangles
+[2021.01.28-00.40.59:738][  0]LogSkeletalMesh: Section 4: Material=4, 1060 triangles
+[2021.01.28-00.40.59:738][  0]LogSkeletalMesh: Section 5: Material=5, 2784 triangles
+[2021.01.28-00.40.59:738][  0]LogSkeletalMesh: Section 6: Material=6, 2796 triangles
+[2021.01.28-00.40.59:738][  0]LogSkeletalMesh: Section 7: Material=7, 97 triangles
+[2021.01.28-00.40.59:738][  0]LogSkeletalMesh: Section 8: Material=8, 6628 triangles
+[2021.01.28-00.40.59:738][  0]LogSkeletalMesh: Section 9: Material=9, 11291 triangles
+[2021.01.28-00.40.59:738][  0]LogSkeletalMesh: Section 10: Material=10, 3072 triangles
+[2021.01.28-00.41.00:795][  0]LogSkeletalMesh: Built Skeletal Mesh [10.96s] /Game/Max/MaxNew/MAX_new.MAX_new
+[2021.01.28-00.41.00:806][  0]LogMaterial: Display: Missing cached shader map for material blinn6, compiling. 
+[2021.01.28-00.41.04:352][  0]LogTexture: Display: Building textures: Window_M_Mixed_AO (AutoDXT, 2048X2048)
+[2021.01.28-00.41.04:353][  0]LogMaterial: Display: Missing cached shader map for material Skin_MT, compiling. 
+[2021.01.28-00.41.04:643][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Max/Animations/WalkRun/weapom/Pistol_Walk.Pistol_Walk
+[2021.01.28-00.41.04:643][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Max/Animations/WalkRun/weapom/Pistol_run.Pistol_run
+[2021.01.28-00.41.04:643][  0]LogMaterial: Display: Missing cached shader map for material Face_MT, compiling. 
+[2021.01.28-00.42.10:884][  0]LogTexture: Display: Building textures: Window_M_Base_Color (AutoDXT, 2048X2048)
+[2021.01.28-00.42.10:884][  0]LogTexture: Display: Building textures: wheel_M_Roughness (AutoDXT, 2048X2048)
+[2021.01.28-00.42.10:884][  0]LogTexture: Display: Building textures: wheel_M_Normal_DirectX (BC5, 2048X2048)
+[2021.01.28-00.42.10:884][  0]LogTexture: Display: Building textures: wheel_M_Mixed_AO (AutoDXT, 2048X2048)
+[2021.01.28-00.42.10:884][  0]LogMaterial: Display: Missing cached shader map for material Eyes_MT, compiling. 
+[2021.01.28-00.42.10:912][  0]LogMaterial: Display: Missing cached shader map for material Bottom_MT, compiling. 
+[2021.01.28-00.42.10:956][  0]LogMaterial: Display: Missing cached shader map for material Window_M, compiling. 
+[2021.01.28-00.42.45:356][  0]LogTexture: Display: Building textures: wheel_M_Base_Color (AutoDXT, 2048X2048)
+[2021.01.28-00.42.45:356][  0]LogTexture: Display: Building textures: UpCar_M1_Roughness (AutoDXT, 2048X2048)
+[2021.01.28-00.42.45:356][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 273
+[2021.01.28-00.42.45:356][  0]LogTexture: Display: Building textures: UpCar_M1_Normal_DirectX (BC5, 2048X2048)
+[2021.01.28-00.42.45:356][  0]LogMaterial: Display: Missing cached shader map for material wheel_M, compiling. 
+[2021.01.28-00.43.26:073][  0]LogTexture: Display: Building textures: UpCar_M1_Mixed_AO (AutoDXT, 2048X2048)
+[2021.01.28-00.43.26:074][  0]LogTexture: Display: Building textures: UpCar_M1_Height (AutoDXT, 2048X2048)
+[2021.01.28-00.43.26:074][  0]LogTexture: Display: Building textures: UpCar_M1_Base_Color (AutoDXT, 2048X2048)
+[2021.01.28-00.43.26:074][  0]LogTexture: Display: Building textures: Indoor_M_Roughness (AutoDXT, 2048X2048)
+[2021.01.28-00.43.26:074][  0]LogMaterial: Display: Missing cached shader map for material UpCar_M1, compiling. 
+[2021.01.28-00.44.07:208][  0]LogTexture: Display: Building textures: Indoor_M_Normal_DirectX (BC5, 2048X2048)
+[2021.01.28-00.44.07:208][  0]LogTexture: Display: Building textures: Indoor_M_Mixed_AO (AutoDXT, 2048X2048)
+[2021.01.28-00.44.07:208][  0]LogTexture: Warning: The data retrieved from the derived data cache for the texture Texture2D /Game/Impala/Indoor_M_Metallic.Indoor_M_Metallic was invalid. The texture will be rebuild.
+[2021.01.28-00.44.07:208][  0]LogTexture: Display: Building textures: Indoor_M_Metallic (AutoDXT, 2048X2048)
+[2021.01.28-00.44.07:208][  0]LogTexture: Display: Building textures: FrontChromes_M_Roughness (AutoDXT, 2048X2048)
+[2021.01.28-00.44.07:208][  0]LogTexture: Display: Building textures: Indoor_M_Base_Color (AutoDXT, 2048X2048)
+[2021.01.28-00.44.07:208][  0]LogMaterial: Display: Missing cached shader map for material Indoor_M, compiling. 
